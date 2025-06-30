@@ -66,9 +66,11 @@ npm run dev
 
 ## 📽️ Demo
 
-🔗 Live Demo: *\[Insert link here]*
+🔗 Drive Link: *\[https://drive.google.com/drive/folders/1DliXM-cn6b-A78V5RNYv2qEb77qnBRRV?usp=drive_link]*
 
-🎥 Video Walkthrough: *\[Insert link here]*
+🔗 Live Demo: *\[https://drive.google.com/file/d/10dj7OQUmJBE1Jd_JBQj18P8b9wTfbVVp/view?usp=sharing]*
+
+🎥 Video Walkthrough: *\[https://drive.google.com/file/d/1305987oWo2Ah7SIOfBTOqtphFPU7Dhe5/view?usp=sharing]*
 
 ---
 
